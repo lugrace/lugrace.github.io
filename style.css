@@ -10,9 +10,7 @@ body {
  
  }
  
-.page-container .page-selection .container .cover .content .title{
-      background-position:left;
-}
+
 #home {
     height: 100vh;
     -webkit-background-size: cover;
@@ -23,6 +21,9 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-color: #F0F7F5
+}
+.home .container .cover .content .title{
+      background-position:left;
 }
  
 /*
