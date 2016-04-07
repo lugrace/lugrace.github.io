@@ -25,9 +25,9 @@ body {
 #home .container .cover .content #title{
       text-align:left;
 }
-#home .container .cover{
+#home .container {
       background: #5EFFDC;
-      justify-content: left
+     <!-- justify-content: left -->
 }
  
 /*
