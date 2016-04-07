@@ -25,6 +25,9 @@ body {
 .home .container .cover .content .title{
       background-position:left;
 }
+.home .container {
+      background-color: #5EFFDC;
+}
  
 /*
  * Globals
