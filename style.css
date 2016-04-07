@@ -21,6 +21,9 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-color: #F0F7F5
+    
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+    color: #333;
 }
 #home .container .cover .content #title{
       text-align:justify;
