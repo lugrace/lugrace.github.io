@@ -22,14 +22,15 @@ body {
     background-position: center;
     background-color: #F0F7F5
     
+    <!-- text -->
     text-shadow: 0 1px 3px rgba(0,0,0,.5);
-    color: #333;
+    color: #787878;
 }
 #home .container .cover .content #title{
       text-align:justify;
 }
 #about .container {
-      background: #5EFFDC;
+      background: #6EC6AB;
      <!-- justify-content: left -->
 }
  
