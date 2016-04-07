@@ -23,11 +23,11 @@ body {
     background-color: #F0F7F5
 }
 .home .container .cover .content #title{
-      background-position:left;
+      text-align:left;
 }
-.home .container {
+.home .container .cover{
       background: #5EFFDC;
-      justify-content:left;
+      justify-content: left
 }
  
 /*
