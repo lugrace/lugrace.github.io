@@ -5,4 +5,5 @@ Made with HTML, CSS
 
 <Hello, friend>
  
- 
+ Updates:
+ 4/6/16 - Favicon
