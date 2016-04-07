@@ -31,7 +31,7 @@ body {
 }
 #about .container {
       background: #6EC6AB;
-     <!-- justify-content: left -->
+      justify-content: center;
 }
  
 /*
