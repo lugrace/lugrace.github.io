@@ -22,10 +22,10 @@ body {
     background-position: center;
     background-color: #F0F7F5
 }
-.home .container .cover .content #title{
+#home .container .cover .content #title{
       text-align:left;
 }
-.home .container .cover{
+#home .container .cover{
       background: #5EFFDC;
       justify-content: left
 }
