@@ -22,11 +22,12 @@ body {
     background-position: center;
     background-color: #F0F7F5
 }
-.home .container .cover .content .title{
+.home .container .cover .content #title{
       background-position:left;
 }
 .home .container {
-      background-color: #5EFFDC;
+      background: #5EFFDC;
+      justify-content:left;
 }
  
 /*
