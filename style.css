@@ -34,6 +34,10 @@ body {
       justify-content: center;
 }
  
+#footer{
+      background: #6EC6AB;
+}
+}
 /*
  * Globals
  */
