@@ -33,7 +33,9 @@ body {
 #about .container {
       background: #6EC6AB;
       justify-content: center;
-      padding-bottom: 50px;
+}
+#about .container2{
+      background:#8bd1bb ;
 }
  
 #footer{
