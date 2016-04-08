@@ -36,6 +36,8 @@ body {
 }
 #about .container-extra{
       background:#8bd1bb ;
+      justify-content: center;
+      padding: 50px, 50px, 50px, 50px;
 }
  
 #footer{
