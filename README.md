@@ -7,3 +7,4 @@ Made with HTML, CSS
  
  Updates:
  4/6/16 - Favicon
+ 4/8/16 - Footer
