@@ -1,10 +1,10 @@
 # lugrace.github.io
-You can contact me at 2018glu@tjhsst.edu if needed
-A work in progress
-Made with HTML, CSS
+You can contact me at 2018glu@tjhsst.edu if needed <br>
+A work in progress <br>
+Made with HTML, CSS <br>
 
-<Hello, friend>
+<Hello, friend> <br>
  
- Updates:
+ Updates:<br>
  4/6/16 - Favicon <br>
  4/8/16 - Footer
