@@ -34,7 +34,7 @@ body {
       background: #6EC6AB;
       justify-content: center;
 }
-#about .container-extra{
+#about .container-extra .header{
       background:#7ccbb3 ;
       justify-content: center;
       padding: 50px, 50px, 50px, 50px;
