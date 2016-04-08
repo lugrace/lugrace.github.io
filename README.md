@@ -6,5 +6,5 @@ Made with HTML, CSS
 <Hello, friend>
  
  Updates:
- 4/6/16 - Favicon
+ 4/6/16 - Favicon <br>
  4/8/16 - Footer
