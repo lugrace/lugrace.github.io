@@ -35,7 +35,13 @@ body {
       justify-content: center;
 }
 #about .container-extra .header{
-      background:#7ccbb3 ;
+      background:#F0F7F5;
+      <!--#7ccbb3 ; -->
+      justify-content: center;
+      padding: 50px, 50px, 50px, 50px;
+}
+#about .container-more {
+      background:#7ccbb3;
       justify-content: center;
       padding: 50px, 50px, 50px, 50px;
 }
