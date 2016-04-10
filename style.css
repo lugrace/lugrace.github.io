@@ -45,7 +45,10 @@ body {
       justify-content: center;
       padding: 50px, 50px, 50px, 50px;
 }
- 
+
+#about .container-more .header .head-cover li{
+ font-size:10 px;
+}
 #footer{
       background: #6EC6AB;
       text-shadow: 0 1px 3px rgba(0,0,0,.5);
