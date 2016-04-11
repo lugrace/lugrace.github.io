@@ -8,3 +8,4 @@ Made with HTML, CSS <br>
  Updates:<br>
  4/6/16 - Favicon <br>
  4/8/16 - Footer
+ 4/10/16 - Fixed Header sizing issues
