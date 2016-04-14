@@ -63,6 +63,9 @@ body {
     left: 0;
     top: 0
 }
+.navbar li{
+      display: inline;
+}
 .nav-collapse .menu-item {
     float: left;
     width: 100%;
