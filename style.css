@@ -79,6 +79,30 @@ body {
     height: 100%;
     float: left
 }
+.nav-collapse a:active,.nav-collapse .active a {
+    background-color: #a8dccc;
+}
+.nav-collapse a:hover{
+      background-color:#a8dccc;
+}
+@media screen and (min-width: 40em) {
+    .nav-collapse a {
+        padding:0;
+        text-align: center;
+        float: left;
+        margin: 0
+    }
+}
+.nav-collapse ul ul a {
+    background: #F0F7F5;
+    padding-left: 2em
+}
+
+@media screen and (min-width: 40em) {
+    .nav-collapse ul ul a {
+        display:none
+    }
+}
 
 /*
  * Globals
