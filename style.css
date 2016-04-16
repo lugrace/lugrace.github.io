@@ -97,6 +97,9 @@ body {
 .nav-collapse ul ul a {
     background: #F0F7F5;
     padding-left: 2em
+    height: auto;
+    margin: 0px;
+    padding: 8px 0px;
 }
 
 @media screen and (min-width: 40em) {
