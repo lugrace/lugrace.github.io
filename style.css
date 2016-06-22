@@ -12,17 +12,20 @@ body {
  
 
 #home {
-    height: 50vh; /*vh*/
+    height: 200vh; /*vh*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-attachment: scroll;
     background-repeat: no-repeat;
-    background-position: center;
-    background-color: #F0F7F5
-    
-   
+   /* background-position: center; */
+    background-color: #F0F7F5;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    width: 100%;
+    padding-right: 15px;
    
     <!-- text -->
     text-shadow: 0 1px 3px rgba(0,0,0,.5);
@@ -41,12 +44,15 @@ body {
       color: white;
       font-size: 100px; */
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 200px;
+	font-size: 4.75em;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
+	font-weight: 700;
 	line-height: 15.4px;
 	color: white;
+	display: block;
+	text-transform: uppercase;
+	
       text-shadow: 0 0px 0px rgba(0,0,0,0);
 }
 #home .container {
