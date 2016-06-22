@@ -6,6 +6,7 @@ body {
  <!-- background-image: url("milan.jpg"); -->
   <!-- background-repeat: no-repeat;-->*/
    background-position: top;
+   overflow-x: hidden;
  /*  <!--background-attachment:fixed;-->*/
  
  }
