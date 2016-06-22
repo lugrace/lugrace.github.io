@@ -12,7 +12,7 @@ body {
  
 
 #home {
-    height: 50vh; <!-- vh-->
+    height: 50vh; /*vh*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -37,9 +37,9 @@ body {
       text-align: center;
       font-family: 'Open Sans', sans-serif;
       font-style: bold;
-      font-weight: 500px;
+      font-weight: 1000px;
       color: white;
-      font-size: 50px;
+      font-size: 100px;
       text-shadow: 0 0px 0px rgba(0,0,0,0);
 }
 #home .container {
