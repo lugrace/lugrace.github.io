@@ -101,6 +101,15 @@ body {
     width: 100%;
     left: 0;
     top: 0
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 1.75em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 15.4px;
+	color: white;
+	display: block;
+	text-transform: uppercase;
 }
 .navbar li{ <!-- nav-collapse -->
       display: inline;
