@@ -1,12 +1,12 @@
 body {
       
-   <!--padding-top: 120px;-->
+   /*padding-top: 120px;-->
    <!--padding-bottom: 150px;-->
  
  <!-- background-image: url("milan.jpg"); -->
-  <!-- background-repeat: no-repeat;-->
+  <!-- background-repeat: no-repeat;-->*/
    background-position: top;
-   <!--background-attachment:fixed;-->
+ /*  <!--background-attachment:fixed;-->*/
  
  }
  
@@ -33,7 +33,12 @@ body {
       color: #FFFFFF;
       font-size: 30 px;
 }
-#about .container {
+#home .container .cover .content #name{
+      text-align: center;
+      color: white;
+      font-size: 50 px;
+}
+#about .container .cover {
       background: #355C7D/* #6EC6AB; */
       justify-content: center;
 }
