@@ -30,9 +30,11 @@ body {
 }
 #home .container .cover .content #title{
       text-align:justify;
+      color: #FFFFFF;
+      font-size: 30 px;
 }
 #about .container {
-      background: #6EC6AB;
+      background: #355C7D/* #6EC6AB; */
       justify-content: center;
 }
 #about .container-extra .header{
