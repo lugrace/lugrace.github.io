@@ -21,7 +21,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-color: #F0F7F5
-    font-family: 'Open Sans', sans-serif;
+    
    
    
     <!-- text -->
@@ -35,12 +35,16 @@ body {
 }
 #home .container .cover .content #name{
       text-align: center;
+      font-family: 'Open Sans', sans-serif;
+      font-style: bold;
+      font-weight: 500px;
       color: white;
       font-size: 50px;
       text-shadow: 0 0px 0px rgba(0,0,0,0);
 }
-#home .container .cover{
+#home .container {
       background: #355C7D;
+      font: ;
 }
 #about .container .cover {
       background: #355C7D/* #6EC6AB; */
