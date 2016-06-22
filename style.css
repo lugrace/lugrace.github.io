@@ -37,6 +37,10 @@ body {
       text-align: center;
       color: white;
       font-size: 50px;
+      text-shadow: 0 0px 0px rgba(0,0,0,0);
+}
+#home .container .cover{
+      background: #355C7D;
 }
 #about .container .cover {
       background: #355C7D/* #6EC6AB; */
