@@ -75,6 +75,7 @@ body {
 	overflow: auto;
 	padding-top: 100px;
     padding-bottom: 100px;
+    clear: both;
 }
 #about .container .cover {
       background: #355C7D/* #6EC6AB; */
@@ -88,7 +89,7 @@ body {
       padding: 50px, 50px, 50px, 50px;
 }
 #about .container-more {
-      background:#7ccbb3;
+      background:#FFFFFF;
       justify-content: center;
       padding: 50px, 50px, 50px, 50px;
 }
@@ -101,6 +102,13 @@ body {
       background: #6EC6AB;
       text-shadow: 0 1px 3px rgba(0,0,0,.5);
       color: #FFF;
+}
+#work{
+	overflow:auto;
+	background: #60CEB5;
+	padding-top: 100px;
+        padding-bottom: 100px;
+	color: white;
 }
 }
 .navbar {
