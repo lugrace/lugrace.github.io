@@ -71,7 +71,9 @@ body {
 	
       text-shadow: 0 0px 0px rgba(0,0,0,0);
 }
-
+#about{
+	overflow: auto;
+}
 #about .container .cover {
       background: #355C7D/* #6EC6AB; */
       justify-content: center;
@@ -93,6 +95,7 @@ body {
  font-size:10 px;
 }
 #footer{
+      overflow: auto;
       background: #6EC6AB;
       text-shadow: 0 1px 3px rgba(0,0,0,.5);
       color: #FFF;
