@@ -151,7 +151,7 @@ body {
     background-color: #a8dccc;
 }
 .nav-collapse a:hover{
-      background-color:#a8dccc;
+      background-color:#FEE3A0;
 }
 @media screen and (min-width: 40em) {
     .nav-collapse a {
@@ -204,19 +204,20 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: /*#F0F7F5*/ #355C7D;
+  /*background-color: /*#F0F7F5*/ #355C7D; */
 }
 body {
   color: #355C7D;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .top-bar_ul{
   display:  table;
   width: 100%;
-  height: 100%;  
+  /*height: 100%; */
+  overflow: auto;
   min-height:100%;
 }
 .site-wrapper {
@@ -260,6 +261,7 @@ body {
   padding-right: 0;
   padding-left: 0;
   font-size: 16px;
+  float: right;
   font-weight: bold;
   color: #000/* IE8 proofing */
   color: rgba(255,255,255,.75);
