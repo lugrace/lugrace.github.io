@@ -76,6 +76,8 @@ body {
 	padding-top: 100px;
     padding-bottom: 100px;
     clear: both;
+    color: black;
+    background: #FFFFFF;
 }
 #about .container .cover {
       background: #355C7D/* #6EC6AB; */
