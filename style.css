@@ -122,15 +122,7 @@ h2{
 #about .container .header .head-cover #dome{
 	float: right;
 }
-#about .container-more {
-      background:#FFFFFF;
-      justify-content: center;
-      padding: 50px, 50px, 50px, 50px;
-}
 
-#about .container-more .header .head-cover li{
- font-size:10 px;
-}
 #footer{
       overflow: auto;
       background: #6EC6AB;
@@ -142,6 +134,14 @@ h2{
 	background: #60CEB5;
 	padding-top: 100px;
         padding-bottom: 100px;
+	color: white;
+}
+#work .container .header .head-cover #work{
+	padding-top: 10px;
+	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 20px;
+	font-weight: none;
+	line-height: 1.5em;
 	color: white;
 }
 }
