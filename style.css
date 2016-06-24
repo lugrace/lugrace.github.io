@@ -119,6 +119,12 @@ body {
 h2{
 	font-size: 20px;
 }
+a:hover{
+	color: #60CEB5;
+}
+a:link{
+	color: #FEE3A0;
+}
 #about .container .header .head-cover #dome{
 	float: right;
 }
