@@ -104,12 +104,15 @@ body {
 }
 #about .container .header .head-cover #text
 {
-	font-family: "Lato", Helvetica;
+	font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 20px;
 	font-weight: none;
 	line-height: 1.5em;
-	color: black;
-	
+	color: #2c3e50;;
+	float: left;
+}
+#about .container .header .head-cover #dome{
+	float: right;
 }
 #about .container-more {
       background:#FFFFFF;
