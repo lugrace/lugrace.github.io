@@ -90,7 +90,7 @@ body {
       justify-content: center;
       padding: 50px, 50px, 50px, 50px;
 }
-#about .container-extra .header #name
+#about .container-extra .header .head-cover #name
 {
 	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 2.75em;
