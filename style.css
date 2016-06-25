@@ -190,37 +190,42 @@ h2{
     left: 0;
     top: 0
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-size: 1.75em;
+/*	font-size: 1.75em;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 700;
-	line-height: 15.4px;
+	line-height: 15.4px;*/
 	color: white;
 	display: block;
 	text-transform: uppercase;
+	letter-spacing: 1px;
+	border: 0;
+	outline: 0;
 }
-.navbar li{ <!-- nav-collapse -->
+.navbar li{ /* nav-collapse */
       display: inline;
-      padding: 20px;
+      padding: 10px;
 }
 .nav-collapse .menu-item {
-    float: left;
-    width: 100%;
-    height: 100%
+    float: right;
+   /* width: 100%;
+    height: 100%*/
 }
 .nav-collapse a {
     -webkit-tap-highlight-color: transparent;
     text-decoration: none;
+    background-color: #FEE3A0;
     color: #fff;
-    width: 100%;
-    height: 100%;
-    float: left
+   /* width: 100%;
+    height: 100%;*/
+   /* float: left*/
+   overflow: auto;
 }
 .nav-collapse a:active,.nav-collapse .active a {
     background-color: #a8dccc;
 }
 .nav-collapse a:hover{
-      background-color:#FEE3A0;
+      color:#60CEB5;
 }
 @media screen and (min-width: 40em) {
     .nav-collapse a {
