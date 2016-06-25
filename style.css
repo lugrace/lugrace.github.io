@@ -206,6 +206,9 @@ h2{
       display: inline;
       padding: 10px;
 }
+.navbar #name{
+	float: left;
+}
 .nav-collapse .menu-item {
     float: right;
    /* width: 100%;
