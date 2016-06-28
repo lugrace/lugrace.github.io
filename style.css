@@ -212,10 +212,10 @@ h2{
 	padding-right:50px;
 }
 .navbar {
-    background-color: #F0F7F5;
+    background-color: #FEE3A0;
     position: fixed;
     overflow: auto;
-    z-index: 3;
+   /* z-index: 3; */
     width: 100%;
     left: 0;
     top: 0
@@ -243,6 +243,9 @@ h2{
 }
 .navbar #name{
 	float: left;
+	font-size: 30px;
+	font-weight: 700;
+	padding: 75px;
 }
 .nav-collapse .menu-item {
     float: right;
