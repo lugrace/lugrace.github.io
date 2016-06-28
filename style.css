@@ -215,7 +215,7 @@ h2{
     background-color: #FEE3A0;
     position: fixed;
     overflow: auto;
-   /* z-index: 3; */
+    z-index: 3; 
     width: 100%;
     left: 0;
     top: 0
