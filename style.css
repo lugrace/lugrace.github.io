@@ -215,7 +215,7 @@ h2{
     background-color: #FEE3A0;
     position: fixed;
     overflow: auto;
-    z-index: 3; 
+    z-index: 1; 
     width: 100%;
     left: 0;
     top: 0
@@ -245,7 +245,7 @@ h2{
 	float: left;
 	font-size: 30px;
 	font-weight: 700;
-	padding: 15px;
+	padding: 10px;
 }
 .nav-collapse .menu-item {
     float: right;
