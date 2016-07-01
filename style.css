@@ -251,11 +251,11 @@ h2{
 	font-weight: 700;
 	padding: 10px;
 }
-.nav-collapse .menu-item {
-    float: right;
+/*.nav-collapse .menu-item {
+    /*float: right;*/
    /* width: 100%;
     height: 100%*/
-}
+}*/
 .nav-collapse a {
     -webkit-tap-highlight-color: transparent;
     text-decoration: none;
