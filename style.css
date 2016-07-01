@@ -1,5 +1,8 @@
 /* Internet Explorer 10 in Windows 8 and Windows Phone 8 Bug fix */
+*{
+	border: 1px dashed #0000ff;	
 
+}
 @-webkit-viewport {
     width: device-width;
 }
