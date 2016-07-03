@@ -239,8 +239,8 @@ h2{
 #nav{
 	background-color: #FEE3A0;
 	overflow: auto;
-	padding-left: 50px;
-	padding-right:50px;
+	padding-left: 30px;
+	padding-right:30px;
 }
 .navbar {
     background-color: #FEE3A0;
@@ -288,9 +288,10 @@ h2{
       font-weight: 700;
 }
 .navbar .title{
-	position:static;
+	position:relative;
 	height:100%;
 	justify-content:center; 
+	text-align:center;
 }
 .navbar .title #name{
 	float: left;
