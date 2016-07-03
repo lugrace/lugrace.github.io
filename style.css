@@ -153,14 +153,14 @@ a:visited{
 }
 #about .container .header .head-cover .overview{
 	float: left;
-	padding: 0px;
+	padding: 15px;
 	margin: 0px;
 	overflow: auto;
 	width: 50%;
 }
 #about .container .header .head-cover .coding{
 	float: right;
-	padding: 0px;
+	padding: 15px;
 	margin: 0px;
 	overflow: auto;
 	width: 50%;
@@ -212,6 +212,7 @@ h2{
 	color: white;
 	display: block;
 	text-transform: uppercase;
+	text-align:center;
 }
 #contact .container .header .head-cover #title{
 	font-size: 3em;
@@ -220,6 +221,7 @@ h2{
 	color: #60CEB5;
 	display: block;
 	text-transform: uppercase;
+	text-align:center;
 }
 #contact{
 	overflow:auto;
@@ -232,7 +234,7 @@ h2{
 	background: #60CEB5;
 	padding-top: 10px;
 	padding-bottom:10px;
-}
+	text-align:center;
 }
 #nav{
 	background-color: #FEE3A0;
@@ -278,6 +280,7 @@ h2{
       text-transform: uppercase;
       text-align: right;
       float: left;
+      font-weight: 700;
 }
 .navbar .title{
 	position:static;
