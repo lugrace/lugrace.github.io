@@ -24,10 +24,11 @@
 }
 
 body {
-      
-   /*padding-top: 120px;-->
-   <!--padding-bottom: 150px;-->
  
+  padding-top: 60px;
+  background-color:#60CEb5;
+  /*padding-top: 120px;-->
+   <!--padding-bottom: 150px;-->
  <!-- background-image: url("milan.jpg"); -->
   <!-- background-repeat: no-repeat;-->*/
    background-position: top;
@@ -35,6 +36,11 @@ body {
  /*  <!--background-attachment:fixed;-->*/
  
  }
+ @media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
  a, a:hover, a:focus, a:active, a.active {
     outline: 0;
    /* color: #FEE3A0;*/
