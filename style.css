@@ -245,7 +245,7 @@ h2{
 .navbar {
     background-color: #FEE3A0;
     position: fixed;
-    float: top;
+    /*float: top;*/
     overflow: auto;
     z-index: 1; 
     width: 100%;
@@ -264,11 +264,14 @@ h2{
 	letter-spacing: 1px;
 	border: 0;
 	outline: 0;
+	margin: auto;
 }
 .navbar .menulist{
 	float: right;
 	position: relative;
 	margin-left: 50px;
+	padding-right:5px;
+	padding:10px;
 }
 .navbar .menulist li{ /* nav-collapse */
       display: inline;
@@ -289,8 +292,9 @@ h2{
 	float: left;
 	font-size: 30px;
 	font-weight: 700;
-	padding: 10px;
+	padding: 10px 10px 10px 5px;
 	margin:auto;
+	text-align:center;
 }
 .nav-collapse .menu-item {
     float: right;
