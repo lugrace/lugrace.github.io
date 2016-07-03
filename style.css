@@ -264,7 +264,9 @@ h2{
 	letter-spacing: 1px;
 	border: 0;
 	outline: 0;
-	margin: auto;
+}
+.navbar .nav-collapse{
+	display:inline-block;
 }
 .navbar .menulist{
 	float: right;
