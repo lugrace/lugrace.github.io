@@ -288,7 +288,8 @@ h2{
       font-weight: 700;
 }
 .navbar .title{
-	position:relative;
+	position:absolute;
+	transform: translate(-50%,-50%);
 	height:100%;
 	justify-content:center; 
 	text-align:center;
