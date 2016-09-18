@@ -52,10 +52,8 @@ a:visited{
 	color: #FEE3A0;
 }
 
- 
-
 #home {
-   /* height: 20vh; /*vh*/*/
+   /* height: 20vh; /*vh*/
     clear: both;
     overflow: auto;
     -webkit-background-size: cover;
@@ -92,13 +90,13 @@ a:visited{
       font-size: 30px;
 }
 #home .container .cover .content #name{
-      text-align: center;
+  text-align: center;
    /*   font-family: 'Open Sans', sans-serif;
       font-style: bold;
       font-weight: 1000px;
       color: white;
       font-size: 100px; */
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 4.75em;
 	font-style: normal;
 	font-variant: normal;
@@ -107,8 +105,7 @@ a:visited{
 	color: white;
 	display: block;
 	text-transform: uppercase;
-	
-      text-shadow: 0 0px 0px rgba(0,0,0,0);
+	text-shadow: 0 0px 0px rgba(0,0,0,0);
 }
 #about{
     overflow: auto;
@@ -172,6 +169,13 @@ a:visited{
 	margin: 0px;
 	overflow: auto;
 	width: 50%;
+}
+#about .container .header .head-cover .russian{
+  float: left;
+  padding: 15px;
+  margin: 0px;
+  overflow: auto;
+  width: 50%;
 }
 #about .container .header .head-cover h2{
 	font-size: 1.5em;
@@ -384,69 +388,7 @@ body {
   height: 100%;
   /*background-color: /*#F0F7F5*/ #355C7D; */
 }
-/*
-body {
-  color: #355C7D;
-  text-align: center;
-  /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
-}
 
-/* Extra markup and styles for table-esque vertical and horizontal centering */
-/*
-.top-bar_ul{
-  display:  table;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  min-height:100%;
-}
-.site-wrapper {
-  display: table;
-  width: 100%;
-  height: 100%; For at least Firefox
-  min-height: 100%;
-  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,0);
-          box-shadow: inset 0 0 100px rgba(0,0,0,0);
-}
-.site-wrapper-inner {
-  display: table-cell;
-  vertical-align: top;
-}
-.cover-container {
-  margin-right: auto;
-  margin-left: auto;
-}
-
- Padding for spacing 
-.inner {
-  padding: 10px;
-}
-*/
-
-/*
- * Header
- */
-/*.masthead-brand {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.masthead-nav > li {
-  display: inline-block;
-}
-.masthead-nav > li + li {
-  margin-left: 20px;
-}
-.masthead-nav > li > a {
-  padding-right: 0;
-  padding-left: 0;
-  font-size: 16px;
-  float: right;
-  font-weight: bold;
-  color: #000/* IE8 proofing */
-  color: rgba(255,255,255,.75);
-  border-bottom: 2px solid transparent;
-}
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
   background-color: transparent;
@@ -468,8 +410,6 @@ body {
     float: right;
   }
 }
-
-
 /*
  * Cover
  */
@@ -482,20 +422,14 @@ body {
   font-weight: bold;
 }
 
-
-/*
- * Footer
- */
+/* Footer*/
 
 .mastfoot {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
 }
 
-
-/*
- * Affix and center
- */
+/* Affix and center */
 
 @media (min-width: 768px) {
   /* Pull out the header and footer */
