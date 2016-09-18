@@ -177,6 +177,20 @@ a:visited{
   overflow: auto;
   width: 50%;
 }
+#about .container .header .head-cover .volunteer{
+  float:right;
+  padding:15px;
+  margin:0px;
+  overflow:auto;
+  width:50%;
+}
+#about .container .header .head-cover .other{
+  float:left;
+  padding:15px;
+  margin:0px;
+  overflow:auto;
+  width:50%;
+}
 #about .container .header .head-cover h2{
 	font-size: 1.5em;
 	font-weight: 700;
@@ -185,6 +199,14 @@ a:visited{
 	display: block;
 	text-transform: uppercase;
 	text-align: center;
+}
+#about .container .header .head-cover h1{
+  font-size: 1em;
+  font-weight:500
+  line-height: 1.5em;
+  display:block;
+  text-transform: uppercase;
+  text-align: left;
 }
 h2{
 	font-size: 20px;
