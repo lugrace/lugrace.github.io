@@ -174,11 +174,28 @@
 				<div class="container">
 					<div class="header">
 						<div class="head-cover">
-							<h2 class="title">Copyright © Grace Lu 2016</h2>
-							 <h2 class="update">Last updated - September 2016</h2>
-							 <p>Made with <i class="icon ion-ios-heart"></i> by Grace Lu</p>
+							<h1 class="title">Copyright © Grace Lu 2016</h2>
+							 <h1 class="update">Last updated - September 2016</h2>
+							 <p>Made with <i class="icon ion-ios-heart"></i> by scratch by Grace Lu</p>
+							 <i class="icon ion-happy" id='icons'></i>
 							 <!--ion-happy -->
 						</div>
+						<script>
+							var myIndex = 0;
+							carousel();
+
+							function carousel() {
+							  var i;
+    							var x = document.getElementsById("icons");
+    							for (i = 0; i < x.length; i++) {
+							  x[i].style.display = "none";
+							 }
+							 myIndex++;
+							 if (myIndex > x.length) {myIndex = 1}
+							 x[myIndex-1].style.display = "block";
+							 setTimeout(carousel, 2000); // Change image every 2 seconds
+							}
+						</script>
 					</div>
 				</div>
 			</div>
